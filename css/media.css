@@ -99,6 +99,9 @@
 	}
 }
 @media (max-width: 700px){
+	.header_top{
+		display: none;
+	}
 	.header_button {
 		float: none;
 		display: block;
